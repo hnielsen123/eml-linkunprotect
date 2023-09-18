@@ -55,7 +55,7 @@ encoded_urls = re.findall(r'https://linkprotect.cudasvc[^\s"]+', email_content)
 decoded_urls = []
 
 
-print(encoded_urls)
+# print(encoded_urls)
 
 for url in encoded_urls:
 	decoded_url = decode_url(url)[2:]
