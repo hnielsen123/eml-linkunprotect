@@ -8,4 +8,4 @@ This is a Python script that accepts an '.eml' file as input, and will output an
 
 While this was written specifically for Barracuda, it could be pretty easily modified to any other link protection service. Also, while this was written specifically for '.eml' files, it may work just fine on other text email formats; I just haven't tested it on anything else.
 
-- H Nielsen 
+\- H Nielsen 
